@@ -2,6 +2,13 @@
 
 Simple Bash script to delete entries in `~/.ssh/known_hosts` file.
 
+## Table of Contents
+
+- [Usage](#usage)
+- [Installation](#installation)
+  - [Option 1: Add to `.bashrc`](#option-1-add-to-bashrc)
+  - [Option 2: Add to a `bin` Directory](#option-2-add-to-a-bin-directory)
+
 ## Usage
 
 ```bash
