@@ -1,2 +1,2 @@
 # useful-scripts
-Some scripts for various use cases, each script is documented as to how it is used.
+Some scripts for various use cases, each script is documented as to how it can be used.
